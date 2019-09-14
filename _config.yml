@@ -26,6 +26,7 @@ github_username:  brikelly
 # Build settings
 markdown: kramdown
 theme: minima
+# theme: jekyll-theme-cayman
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
