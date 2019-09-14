@@ -14,19 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sustainable Development
-email: brikelly@sustainabledev.org
 description: >- # this means to ignore newlines until "baseurl:"
   Sustainable development: software engineering done healthily, ethically, and
   for the long term.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sustainabledev.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brikelly
 github_username:  brikelly
 
 # Build settings
 markdown: kramdown
-theme: minima
-# theme: jekyll-theme-cayman
+# theme: minima
+theme: jekyll-theme-cayman
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
