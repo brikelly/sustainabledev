@@ -5,7 +5,9 @@ title: About
 permalink: /about/
 ---
 
-About content goes here.
-
-* [Source code](https://github.com/brikelly/sustainabledev) for this site
-* Last updated: September 2019
+* The [source code](https://github.com/brikelly/sustainabledev) for this site is
+hosted on GitHub. Please suggest changes to the site with a pull request.
+* If you would like to localize this site into another language, please get in
+touch.
+* Created by [Brian Kelly](https://twitter.com/brikelly), last updated:
+September 2019
