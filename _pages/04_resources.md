@@ -11,6 +11,7 @@ permalink: /resources/
 * [Why We Sleep](https://www.simonandschuster.com/books/Why-We-Sleep/Matthew-Walker/9781501144325)
 * [Deep Work](http://www.calnewport.com/books/deep-work/)
 * [The Daily Stoic](https://dailystoic.com)
+* [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.penguinrandomhouse.com/books/39276/slack-by-tom-demarco/9780767907699/)
 
 ### Articles
 
@@ -36,4 +37,4 @@ permalink: /resources/
 * [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de ) _(Medium)_
 * [Why finding a hobby you love could save your career](https://medium.com/swlh/why-finding-a-hobby-you-love-could-save-your-career-c12550749a04) _(Medium)_
 * [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens) _(Nuclino Blog)_
-* ["...sleep quality and stress level matter far, far more than the languages you use or the practices you follow..."](https://twitter.com/hillelogram/status/1119709859979714560?s=21) _(Twitter, @hillelogram)_
+* ["...sleep quality and stress level matter far, far more than the languages you use or the practices you follow..."](https://twitter.com/hillelogram/status/1119709859979714560?s=21) _(@hillelogram)_
