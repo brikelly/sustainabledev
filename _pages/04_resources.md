@@ -20,6 +20,7 @@ permalink: /resources/
 * [1 in 5 Highly Engaged Employees is at Risk of Burnout](https://hbr.org/2018/02/1-in-5-highly-engaged-employees-is-at-risk-of-burnout) _(HBR)_
 * [A record 768 Million US vacation days went to waste last year, study says](https://www.cnn.com/travel/article/unused-vacation-days-trnd/index.html) _(CNN)_
 * [Why Time Management is Ruining Our Lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives) _(The Guardian)_
+* [Boasting about how many hours you work is a sign of failure](https://qz.com/work/1486863/boasting-about-how-many-hours-you-work-is-a-sign-of-failure/) _(Quartz at Work)_
 * [No sleep, no sex, no life: tech workers in China’s Silicon Valley face burnout before they reach 30](https://www.scmp.com/tech/apps-social/article/3002533/no-sleep-no-sex-no-life-tech-workers-chinas-silicon-valley-face) _(South China Morning Post)_
 * [They Write the Right Stuff](https://www.fastcompany.com/28121/they-write-right-stuff) _(Fast Company)_
 * [The key to loving your job in the age of burnout](https://qz.com/work/1571065/how-to-love-your-job-and-avoid-burnout/) _(Quartz at Work)_
@@ -30,6 +31,7 @@ permalink: /resources/
 * [How the people who built Slack use it without going bonkers](https://www.fastcompany.com/90367875/how-the-people-who-built-slack-use-it-without-going-bonkers) _(Fast Company)_
 * [What stress does to the brain](https://neurosciencenews.com/brain-stress-14580/) _(Neuroscience News)_
 * [When Burnout Is a Sign You Should Leave Your Job](https://hbr.org/2018/01/when-burnout-is-a-sign-you-should-leave-your-job) _(HBR)_
+* [Entrepreneurs Who Sleep More Are Better at Spotting Good Ideas](https://hbr.org/2019/10/entrepreneurs-who-sleep-more-are-better-at-spotting-good-ideas) _(HBR)_
 
 ### Blogs and Tweets
 

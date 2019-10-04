@@ -20,25 +20,6 @@ management to collectively agree on how they should operate. They're the experts
 on their own team, so they are best positioned to determine their optimal way
 of working.
 
-**What's stopping a team saying they follow Sustainable Development, but
-their stated practices are to work 18 hours a day?**
-
-Nothing! If a team collectively agrees with their management that very long
-hours and weekends will be sustainable and healthy, that's their decision to
-make.
-
-The Sustainable Development principles do offer protection against
-unhealthy models being proposed:
-
-* A team would have to collectively agree that 18 hour workdays are sustainable,
-and not just have management dictate those terms.
-* Candidates seeking employment on that team could ask to review their
-Sustainable Development practices, and seeing 18-hour days would likely make
-those candidates think twice before accepting an offer with them.
-* The third principle (of continuous improvement) should quickly highlight the
-fact that 18 hour workdays are unsustainable, and lead to improvements being
-collectively made to change those stated practices.
-
 **What if all the engineers on my team agree to adopt this, but our managers
 do not?**
 
@@ -89,3 +70,23 @@ isn't being practiced any more, or that you believe you're exempt.
 
 Lastly, make sure to follow the third principle and continuously improve your
 own stated work practices to be more sustainable.
+
+
+**What's stopping a team saying they follow Sustainable Development, but
+their stated practices are to work 18 hours a day?**
+
+Nothing! If a team collectively agrees with their management that very long
+hours and weekends will be sustainable and healthy, that's their decision to
+make.
+
+The Sustainable Development principles do offer protection against
+unhealthy models being proposed:
+
+* A team would have to collectively agree that 18 hour workdays are sustainable,
+and not just have management dictate those terms.
+* Candidates seeking employment on that team could ask to review their
+Sustainable Development practices, and seeing 18-hour days would likely make
+those candidates think twice before accepting an offer with them.
+* The third principle (of continuous improvement) should quickly highlight the
+fact that 18 hour workdays are unsustainable, and lead to improvements being
+collectively made to change those stated practices.
