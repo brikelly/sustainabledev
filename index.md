@@ -44,7 +44,7 @@ including management.
 it. For example, if a team collectively agrees that they should rarely work past
 6pm, it doesn't help if most of the team responds to emails late at night.
 
-* Thirdly, the entire team should strive to improve their own chosen approach
+* Thirdly, the entire team should continually improve their own chosen approach
 to sustainable development. They can do this through retrospectives and other
 kinds of feedback sessions. Again, this should include all the stakeholders
 who are affected by the choices made in the team's approach to sustainable
