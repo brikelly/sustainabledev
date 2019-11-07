@@ -33,6 +33,7 @@ permalink: /resources/
 * [When Burnout Is a Sign You Should Leave Your Job](https://hbr.org/2018/01/when-burnout-is-a-sign-you-should-leave-your-job) _(HBR)_
 * [Entrepreneurs Who Sleep More Are Better at Spotting Good Ideas](https://hbr.org/2019/10/entrepreneurs-who-sleep-more-are-better-at-spotting-good-ideas) _(HBR)_
 * [Microsoft Japan tested a four-day work week and productivity jumped by 40%](https://www.theguardian.com/technology/2019/nov/04/microsoft-japan-four-day-work-week-productivity) _(The Guardian)_
+* [5-Hour Workdays? 4-Day Workweeks? Yes, Please](https://www.nytimes.com/2019/11/06/opinion/five-hour-workday-experiment.html) _(New York Times)_
 
 ### Blogs and Tweets
 
