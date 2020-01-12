@@ -72,11 +72,11 @@ time off (bad for the company).
 
 Teams with unlimited vacation balances should define sustainable practices around
 how their team members take time off. For example, requiring that everyone on
-the team take at least four weeks off every year. 
+the team take at least four weeks off every year.
 
 ### Work Crises
 
-Consider running a retrospective when the team has to work late hours or
+Consider running a retrospective after team members had to work late hours or
 weekends, or when their own approach to sustainable work wasn't consistently
 followed due to work pressures. Take real action based on the outcome of those
 retrospectives, and track how many times you have to run these kinds of

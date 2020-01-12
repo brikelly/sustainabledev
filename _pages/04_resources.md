@@ -4,6 +4,9 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
+### Videos
+
+* [Sustainable Development](https://youtu.be/c0rJj9wiW8I) _(Lightning Talk, DevOpsDays Boston 2019)_
 
 ### Books
 
@@ -13,7 +16,7 @@ permalink: /resources/
 * [The Daily Stoic](https://dailystoic.com)
 * [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.penguinrandomhouse.com/books/39276/slack-by-tom-demarco/9780767907699/)
 
-### Articles
+### News Articles
 
 * [Workism is Making Americans Miserable](https://www.theatlantic.com/ideas/archive/2019/02/religion-workism-making-americans-miserable/583441/) _(The Atlantic)_
 * [France gives workers 'right to disconnect' from office email](https://money.cnn.com/2017/01/02/technology/france-office-email-workers-law/index.html) _(CNN)_
@@ -35,10 +38,13 @@ permalink: /resources/
 * [Microsoft Japan tested a four-day work week and productivity jumped by 40%](https://www.theguardian.com/technology/2019/nov/04/microsoft-japan-four-day-work-week-productivity) _(The Guardian)_
 * [5-Hour Workdays? 4-Day Workweeks? Yes, Please](https://www.nytimes.com/2019/11/06/opinion/five-hour-workday-experiment.html) _(New York Times)_
 
-### Blogs and Tweets
+### Blogs
 
 * [We're Optimizing Ourselves to Death](https://medium.com/s/buy-yourself/were-optimizing-ourselves-to-death-d41a3e7cc25a) _(Medium)_
 * [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de ) _(Medium)_
 * [Why finding a hobby you love could save your career](https://medium.com/swlh/why-finding-a-hobby-you-love-could-save-your-career-c12550749a04) _(Medium)_
 * [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens) _(Nuclino Blog)_
-* ["...sleep quality and stress level matter far, far more than the languages you use or the practices you follow..."](https://twitter.com/hillelogram/status/1119709859979714560?s=21) _(@hillelogram)_
+
+### Tweets
+* [Why engineers should get 8 hours of sleep each night](https://twitter.com/brikelly/status/1216049268773019652)
+* ["...sleep quality and stress level matter far, far more than the languages you use or the practices you follow..."](https://twitter.com/hillelogram/status/1119709859979714560?s=21)
