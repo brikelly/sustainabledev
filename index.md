@@ -21,9 +21,13 @@ ___
 
 High pressure and stress is becoming the norm in the software industry. Toxic, unreasonable work environments are easy to find, and engineers in them regularly burn out, leave their jobs, and even abandon the industry entirely. Employees are working longer hours during the week and on weekends, and fully "disconnected" vacations are getting rarer.
 
-This trend is unhealthy and expensive. It’s taxing on the employees and on their families. Employers pay the price too, since they ultimately lose skilled team members. The cost of finding, hiring, and training new engineers is undoubtedly higher than the cost of maintaining a decent environment in which current staff wish to remain.
+Unsustainable work practices are bad for business:
+* Retaining and attracting talent becomes harder
+* Quality of work decreases as staff get more tired and stressed
+* More simultaneous initiatives cause longer project durations
+* Creativity drops, opportunities get missed, innovation stalls
 
-Engineers perform better when they’re less stressed. They also perform better when they are rested and work a normal number of hours in a day. Sustainable Development gives teams a framework for reducing stress and burnout, and fostering intellectual creativity.
+Engineers perform better when they are less stressed, rested, and get to focus on their work for a reasonable number of hours in a day. Sustainable Development gives teams a framework for reducing stress and burnout, and fostering intellectual creativity.
 
 As the [Agile Manifesto](https://agilemanifesto.org) states,
 
@@ -69,6 +73,8 @@ No two teams operate the same way, so every team adopting Sustainable Developmen
 * Everyone is incentivized to not log in or check messages during vacations,  especially management staff. _(Emotional, Physical)_
 
 * Vacations are strongly encouraged to be taken, and especially not all at the end of the year. _(Emotional, Physical)_
+
+Remember, these are only samples to help in your own journey to sustainable development. Your team should decide what is sustainable based on your own unique constraints and challenges.
 
 ___
 
