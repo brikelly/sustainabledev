@@ -25,7 +25,7 @@ Unsustainable work practices are bad for business:
 * Retaining and attracting talent becomes harder
 * Quality of work decreases as staff get more tired and stressed
 * More simultaneous initiatives cause longer project durations
-* Creativity drops, opportunities get missed, innovation stalls
+* Creativity drops, opportunities get missed, and innovation stalls
 
 Engineers perform better when they are less stressed, rested, and get to focus on their work for a reasonable number of hours in a day. Sustainable Development gives teams a framework for reducing stress and burnout, and fostering intellectual creativity.
 
@@ -79,5 +79,7 @@ Remember, these are only samples to help in your own journey to sustainable deve
 ___
 
 ## About
+
+For more information, see the [FAQ]({% link _pages/faq.md %}).
 
 _Sustainable Development_ was created by [Brian Kelly](https://morethancoding.com) and is released under the [Creative Commons CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). If you have feedback, or would like to share your team's sustainable practices, please file a [GitHub issue](https://github.com/brikelly/sustainabledev/issues).
