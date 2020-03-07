@@ -58,7 +58,7 @@ No two teams operate the same way, so every team adopting Sustainable Developmen
 
 * The entire team maximizes deep focus time for engineers and minimizes interruptions and context switching. _(Cognitive)_
 
-* Engineers are empowered to apply back pressure to management when unreasonable amounts of work is expected of them. _(Emotional, Cognitive)_
+* Engineers are empowered to apply pressure back to management when unreasonable amounts of work is expected of them. _(Emotional, Cognitive)_
 
 * Engineers are empowered and encouraged to work with their manager and team members to tweak their schedules or environment to make their work time more sustainable. _(Physical)_
 
